@@ -1,0 +1,818 @@
+[
+    {
+        "key": "JANGADEIRO",
+        "name": "Tv Jangadeiro (Fortaleza - CE)",
+        "latitude": -3.7,
+        "longitude": -38.5
+    },
+    {
+        "key": "IRDEB",
+        "name": "IRDEB - TVE (Salvador - BA)",
+        "latitude": -13.0,
+        "longitude": -38.5
+    },
+    {
+        "key": "SBTINTERIOR",
+        "name": "SBT Interior (Araçatuba - SP)",
+        "latitude": -21.2,
+        "longitude": -50.4
+    },
+    {
+        "key": "TVPARANAIBA",
+        "name": "TV Paranaíba (Uberlândia - MG)",
+        "latitude": -18.9,
+        "longitude": -48.3
+    },
+    {
+        "key": "CMRJ",
+        "name": "Câmara do Rio de Janeiro (RJ)",
+        "latitude": -22.9,
+        "longitude": -43.2
+    },
+    {
+        "key": "REDEBAHIASUDOESTE",
+        "name": "Rede Bahia (Tv Sudoeste)",
+        "latitude": -14.9,
+        "longitude": -40.8
+    },
+    {
+        "key": "REDEBAHIASUBAE",
+        "name": "Rede Bahia (Tv Subaé)",
+        "latitude": -12.3,
+        "longitude": -39.0
+    },
+    {
+        "key": "REDEBAHIASAOFRANCISCO",
+        "name": "Rede Bahia (Tv São Francisco)",
+        "latitude": -9.4,
+        "longitude": -40.5
+    },
+    {
+        "key": "REDEBAHIA",
+        "name": "Rede Bahia (Tv Bahia)",
+        "latitude": -13.0,
+        "longitude": -38.5
+    },
+    {
+        "key": "REDEBAHIASANTACRUZ",
+        "name": "Rede Bahia (TV Santa Cruz)",
+        "latitude": -14.8,
+        "longitude": -39.3
+    },
+    {
+        "key": "REDEBAHIAOESTE",
+        "name": "Rede Bahia (Tv Oeste)",
+        "latitude": -12.1,
+        "longitude": -45.0
+    },
+    {
+        "key": "REDEAMRIOBRANCO",
+        "name": "Rede Amazônica ( Rio Branco - AC)",
+        "latitude": -10.0,
+        "longitude": -67.8
+    },
+    {
+        "key": "REDEAMMACAPA",
+        "name": "Rede Amazônica ( Macapá- AP)",
+        "latitude": 0.0,
+        "longitude": -51.1
+    },
+    {
+        "key": "REDEAMBOAVISTA",
+        "name": "Rede Amaz\u00f4nica ( Boa Vista- RR)",
+        "latitude": 2.8,
+        "longitude": -60.7
+    },
+    {
+        "key": "REDEAMPORTOVELHO",
+        "name": "Rede Amazônica (Porto Velho - RO)",
+        "latitude": -8.8,
+        "longitude": -63.9
+    },
+    {
+        "key": "REDEAM",
+        "name": "Rede Amazônica (Manaus - AM)",
+        "latitude": -3.1,
+        "longitude": -60.0
+    },
+    {
+        "key": "EBC",
+        "name": "EBC",
+        "latitude": -15.8,
+        "longitude": -47.9
+    },
+    {
+        "key": "TVCAMARA",
+        "name": "TV Câmara (Brasília-DF)",
+        "latitude": -15.8,
+        "longitude": -47.9
+    },
+    {
+        "key": "AMAZONSAT",
+        "name": "Amazon Sat (Manaus - AM)",
+        "latitude": -3.1,
+        "longitude": -60.0
+    },
+    {
+        "key": "SJCCRECIFE",
+        "name": "Sistema Jornal do Commercio de Comunicação (Recife - PE)",
+        "latitude": -8.0,
+        "longitude": -34.9
+    },
+    {
+        "key": "NDTVITAJAI",
+        "name": "NDTV/RIC Itajaí (SC)",
+        "latitude": -26.9,
+        "longitude": -48.7
+    },
+    {
+        "key": "NDTVBLUMENAU",
+        "name": "NDTV/RIC Blumenau (Blumenau -SC)",
+        "latitude": -26.9,
+        "longitude": -49.1
+    },
+    {
+        "key": "NDTVFLORIANOPOLIS",
+        "name": "NDTV / Ric Floriaópolis (SC)",
+        "latitude": -27.6,
+        "longitude": -48.5
+    },
+    {
+        "key": "NDTVJOINVILLE",
+        "name": "NDTV/RIC Joinville ( SC)",
+        "latitude": -26.3,
+        "longitude": -48.8
+    },
+    {
+        "key": "NDTVCHAPECO",
+        "name": "NDTV/RIC Chapecó (SC)",
+        "latitude": -27.1,
+        "longitude": -52.6
+    },
+    {
+        "key": "TVCIDADEFORTALEZA",
+        "name": "Tv Cidade Fortaleza (CE)",
+        "latitude": -3.7,
+        "longitude": -38.5
+    },
+    {
+        "key": "RICLONDRINA",
+        "name": "RIC Londrina (PR)",
+        "latitude": -23.3,
+        "longitude": -51.2
+    },
+    {
+        "key": "OPOVO",
+        "name": "O Povo (Fortaleza - CE)",
+        "latitude": -3.7,
+        "longitude": -38.5
+    },
+    {
+        "key": "RICCURITIBA",
+        "name": "RIC Curitiba (PR)",
+        "latitude": -25.4,
+        "longitude": -49.3
+    },
+    {
+        "key": "TVMORENACAMPOGRANDE",
+        "name": "TV Morena (Campo Grande - MS)",
+        "latitude": -20.4,
+        "longitude": -54.6
+    },
+    {
+        "key": "TVMORENADOURADOS",
+        "name": "TV Morena (Dourados - MS)",
+        "latitude": -22.2,
+        "longitude": -54.8
+    },
+    {
+        "key": "RECORDSANTOS",
+        "name": "Record Santos (SP)",
+        "latitude": -24.0,
+        "longitude": -46.3
+    },
+    {
+        "key": "RECORDBAURU",
+        "name": "Record Bauru (SP)",
+        "latitude": -22.3,
+        "longitude": -49.1
+    },
+    {
+        "key": "TVAPERIPE",
+        "name": "Tv Aperipê (Aracaju-SE)",
+        "latitude": -10.9,
+        "longitude": -37.1
+    },
+    {
+        "key": "TVCASINOP",
+        "name": "Centro America (Sinop MT)",
+        "latitude": -11.9,
+        "longitude": -55.5
+    },
+    {
+        "key": "TVDIFUSORA",
+        "name": "Rádio e Tv Difusora SBT (MA)",
+        "latitude": -2.5,
+        "longitude": -44.3
+    },
+    {
+        "key": "RICTOLEDO",
+        "name": "RIC Toledo (PR)",
+        "latitude": -25.5,
+        "longitude": -54.6
+    },
+    {
+        "key": "RICMAISPARANA",
+        "name": "RIC Mais Paraná",
+        "latitude": -25.4,
+        "longitude": -49.3
+    },
+    {
+        "key": "RICFOZ",
+        "name": "RIC Foz do Iguaçu (PR)",
+        "latitude": -25.5,
+        "longitude": -54.6
+    },
+    {
+        "key": "RICMARINGA",
+        "name": "RIC (Maringá - PR)",
+        "latitude": -23.4,
+        "longitude": -51.9
+    },
+    {
+        "key": "PROPROD",
+        "name": "Pro Produções ",
+        "latitude": -3.7,
+        "longitude": -38.5
+    },
+    {
+        "key": "TVMARINGA",
+        "name": "TV Maringá (Maringá - PR)",
+        "latitude": -23.4,
+        "longitude": -51.9
+    },
+    {
+        "key": "TVCACUIABA",
+        "name": "TV Centro América (Cuiabá - MT)",
+        "latitude": -15.6,
+        "longitude": -56.1
+    },
+    {
+        "key": "TVCATANGARA",
+        "name": "Centro América (Tangará MT)",
+        "latitude": -14.6,
+        "longitude": -57.5
+    },
+    {
+        "key": "TVCASORRISO",
+        "name": "Centro América (Sorriso - MT)",
+        "latitude": -12.5,
+        "longitude": -55.7
+    },
+    {
+        "key": "TVCARONDONOPOLIS",
+        "name": "Centro América (Rondonópolis - MT)",
+        "latitude": -16.5,
+        "longitude": -54.6
+    },
+    {
+        "key": "TVUNISINOS",
+        "name": "Tv Unisinos (São Leopoldo- RS)",
+        "latitude": -29.8,
+        "longitude": -51.1
+    },
+    {
+        "key": "TVCIDADEVERDEMT",
+        "name": "TV Cidade Verde (Mato Grosso - MT)",
+        "latitude": -6.5,
+        "longitude": -37.7
+    },
+    {
+        "key": "TVCANCAONOVA",
+        "name": "Tv Can\u00e7\u00e3o Nova (Cachoeira Paulista - SP)",
+        "latitude": -22.7,
+        "longitude": -45.0
+    },
+    {
+        "key": "RECORDRIBEIRAO",
+        "name": "Record Ribeirão (SP)",
+        "latitude": -21.2,
+        "longitude": -47.8
+    },
+    {
+        "key": "TVCORREIO",
+        "name": "TV Correio (Paraíba - PB)",
+        "latitude": -7.1,
+        "longitude": -34.9
+    },
+    {
+        "key": "RECORDFRANCA",
+        "name": "Record Franca (SP)",
+        "latitude": -20.5,
+        "longitude": -47.4
+    },
+    {
+        "key": "SISTEMASVERDESMARES",
+        "name": "Sistema Verdes Mares ( Fortaleza - CE)",
+        "latitude": -3.7,
+        "longitude": -38.5
+    },
+    {
+        "key": "CMJF",
+        "name": "Câmara Municipal de Juiz de Fora (MG)",
+        "latitude": -21.8,
+        "longitude": -43.3
+    },
+    {
+        "key": "ALMG",
+        "name": "ALMG (Belo Horizonte - MG)",
+        "latitude": -19.9,
+        "longitude": -43.9
+    },
+    {
+        "key": "JOVEMPAN",
+        "name": "Jovem Pan (São Paulo - SP)",
+        "latitude": -23.5,
+        "longitude": -46.6
+    },
+    {
+        "key": "INTERTVCABUGI",
+        "name": "Inter TV Cabugi (Natal - RN)",
+        "latitude": -5.8,
+        "longitude": -35.2
+    },
+    {
+        "key": "TVT",
+        "name": "Rede TVT (São Bernardo do Campo - SP)",
+        "latitude": -23.7,
+        "longitude": -46.6
+    },
+    {
+        "key": "TVBARRIGAVERDE",
+        "name": "Tv Barriga Verde (Florianópolis - SC)",
+        "latitude": -27.6,
+        "longitude": -48.5
+    },
+    {
+        "key": "INTERTVGOVERNADOR",
+        "name": "InterTv dos Vales (Governador Valadares - MG)",
+        "latitude": -18.9,
+        "longitude": -42.0
+    },
+    {
+        "key": "INTERTVMONTESCLAROS",
+        "name": "Inter TV Grande Minas (Montes Claros - MG)",
+        "latitude": -16.7,
+        "longitude": -43.9
+    },
+    {
+        "key": "I9",
+        "name": "I9 Record News (Amazonas - MA)",
+        "latitude": -3.1,
+        "longitude": -60.0
+    },
+    {
+        "key": "AFIPE",
+        "name": "AFIPE (Goiânia - GO)",
+        "latitude": -16.7,
+        "longitude": -49.3
+    },
+    {
+        "key": "SBTMS",
+        "name": "SBT MS ( Campo Grande- MS)",
+        "latitude": -20.4,
+        "longitude": -54.6
+    },
+    {
+        "key": "RBTV",
+        "name": "RBTV (SP)",
+        "latitude": -23.5,
+        "longitude": -46.6
+    },
+    {
+        "key": "RADIOITATIAIA",
+        "name": "Rádio Itatiaia (Belo Horizonte - MG)",
+        "latitude": -19.9,
+        "longitude": -43.9
+    },
+    {
+        "key": "SICTV",
+        "name": "SIC TV (Porto Velho - RO)",
+        "latitude": -8.8,
+        "longitude": -63.9
+    },
+    {
+        "key": "MIRANTEIMPERATRIZ",
+        "name": "Tv Mirante Imperatriz (MA)",
+        "latitude": -5.5,
+        "longitude": -47.5
+    },
+    {
+        "key": "MIRANTESAOLUIS",
+        "name": "TV Mirante Sãoo Luís (MA)",
+        "latitude": -2.5,
+        "longitude": -44.3
+    },
+    {
+        "key": "TVBORBOREMA",
+        "name": "TV Borborema (Campina Grande - PB)",
+        "latitude": -7.2,
+        "longitude": -35.9
+    },
+    {
+        "key": "TVMANAIRA",
+        "name": "TV Manaíra (João Pessoa - PB)",
+        "latitude": -7.1,
+        "longitude": -34.9
+    },
+    {
+        "key": "TVCLUBERECIFE",
+        "name": "TV Clube (Recife -PE)",
+        "latitude": -8.0,
+        "longitude": -34.9
+    },
+    {
+        "key": "SBTFLORIANOPOLIS",
+        "name": "SBT Florianópolis (SC)",
+        "latitude": -27.6,
+        "longitude": -48.5
+    },
+    {
+        "key": "TVTAMBAU",
+        "name": "Tv Tambaú (João Pessoa - PB)",
+        "latitude": -7.1,
+        "longitude": -34.9
+    },
+    {
+        "key": "CHACOMNOZES",
+        "name": "Chá com Nozes (Brasília - DF)",
+        "latitude": -15.8,
+        "longitude": -47.9
+    },
+    {
+        "key": "TVGUARA",
+        "name": "TV Guará (São Luís - MA)",
+        "latitude": -2.5,
+        "longitude": -44.3
+    },
+    {
+        "key": "TVVITORIOSA",
+        "name": "Tv Vitoriosa (Uberlândia - MG)",
+        "latitude": -18.9,
+        "longitude": -48.3
+    },
+    {
+        "key": "RECORDGO",
+        "name": "Record Goiás (GO)",
+        "latitude": -16.7,
+        "longitude": -49.3
+    },
+    {
+        "key": "SJCCCARUARU",
+        "name": "Sistema Jornal do Commercio de Caruaru -Tv Jornal Interior (Caruaru - PE)",
+        "latitude": -8.3,
+        "longitude": -36.0
+    },
+    {
+        "key": "TVCLARET",
+        "name": "TV Claret ( Rio Claro - SP)",
+        "latitude": -22.4,
+        "longitude": -47.6
+    },
+    {
+        "key": "VTV",
+        "name": "VTV SBT (Santos - SP)",
+        "latitude": -24.0,
+        "longitude": -46.3
+    },
+    {
+        "key": "TVATALAIA",
+        "name": "TV Atalaia (Aracaju-SE)",
+        "latitude": -10.9,
+        "longitude": -37.1
+    },
+    {
+        "key": "SBTCIDADEVERDE",
+        "name": "SBT Cidade Verde (Teresina - PI)",
+        "latitude": -5.1,
+        "longitude": -42.8
+    },
+    {
+        "key": "TVSERRADOURADA",
+        "name": "TV Serra Dourada (Goiânia - GO)",
+        "latitude": -16.7,
+        "longitude": -49.3
+    },
+    {
+        "key": "TVBRASILIA",
+        "name": "TV Brasília",
+        "latitude": -15.8,
+        "longitude": -47.9
+    },
+    {
+        "key": "RADIOCBN",
+        "name": "Rádio CBN (Campo Grande - MS)",
+        "latitude": -20.4,
+        "longitude": -54.6
+    },
+    {
+        "key": "TVCONCORDIA",
+        "name": "TV Concórdia e Rádio CBN  ( Grupo RCN Três Lagoas - MS)",
+        "latitude": -20.8,
+        "longitude": -51.7
+    },
+    {
+        "key": "REDEPAMPA",
+        "name": "Rede Pampa (Porto Alegre - RS)",
+        "latitude": -30.0,
+        "longitude": -51.2
+    },
+    {
+        "key": "RECORDCAMPOS",
+        "name": "Record (Campos - RJ)",
+        "latitude": -21.8,
+        "longitude": -41.3
+    },
+    {
+        "key": "RBATV",
+        "name": "RBATV Bandeirantes (Belém - PA)",
+        "latitude": -1.5,
+        "longitude": -48.5
+    },
+    {
+        "key": "CNT",
+        "name": "CNT (Curitiba / Salvador / Americanas)",
+        "latitude": -25.4,
+        "longitude": -49.3
+    },
+    {
+        "key": "CANALDOBOI",
+        "name": "Canal do Boi (Campo Grande - MS)",
+        "latitude": -20.4,
+        "longitude": -54.6
+    },
+    {
+        "key": "BANDGO",
+        "name": "BAND Goiânia (GO)",
+        "latitude": -16.7,
+        "longitude": -49.3
+    },
+    {
+        "key": "GAZETAMT",
+        "name": "Grupo gazeta de Comunicação ( Cuiabá - MT)",
+        "latitude": -15.6,
+        "longitude": -56.1
+    },
+    {
+        "key": "BANDBRASILIA",
+        "name": "BAND (Brasília-DF)",
+        "latitude": -15.8,
+        "longitude": -47.9
+    },
+    {
+        "key": "RECORDMS",
+        "name": "TV MS ( Campo Grande - MS) RECORD MS",
+        "latitude": -20.4,
+        "longitude": -54.6
+    },
+    {
+        "key": "TVGUANANDI",
+        "name": "Tv Guanandi/ Tv Interativa ( Campo Grande - MS)",
+        "latitude": -20.4,
+        "longitude": -54.6
+    },
+    {
+        "key": "TVRONDON",
+        "name": "TV Rondon (Cuiabá - MT)",
+        "latitude": -15.6,
+        "longitude": -56.1
+    },
+    {
+        "key": "STF",
+        "name": "STF (Brasília - DF)",
+        "latitude": -15.8,
+        "longitude": -47.9
+    },
+    {
+        "key": "ESPMRS",
+        "name": "ESPM- Escola Superior de Propaganda e Marketing (Porto Alegre- RS)",
+        "latitude": -30.0,
+        "longitude": -51.2
+    },
+    {
+        "key": "TVICARAI",
+        "name": "TV Sinal / Icaraí (Curitiba - PR)",
+        "latitude": -25.4,
+        "longitude": -49.3
+    },
+    {
+        "key": "TVTAROBALONDRINA",
+        "name": "TV Tarobá (Londrina - PR)",
+        "latitude": -23.3,
+        "longitude": -51.2
+    },
+    {
+        "key": "CBNBELEM",
+        "name": "CBN (Belém - PA)",
+        "latitude": -1.5,
+        "longitude": -48.5
+    },
+    {
+        "key": "FUNTELPA",
+        "name": "FUNTELPA (TV Cultura Belém-PA)",
+        "latitude": -1.5,
+        "longitude": -48.5
+    },
+    {
+        "key": "REDEFAMILIALIMEIRA",
+        "name": "Rede Família (Limeira - SP)",
+        "latitude": -22.6,
+        "longitude": -47.4
+    },
+    {
+        "key": "ANTENA10",
+        "name": "Antena 10 (Teresina - PI)",
+        "latitude": -5.1,
+        "longitude": -42.8
+    },
+    {
+        "key": "RADIOSOCIEDADEBAHIA",
+        "name": "Radio Sociedade Bahia (Salvador - BA)",
+        "latitude": -13.0,
+        "longitude": -38.5
+    },
+    {
+        "key": "TVITAPOAN",
+        "name": "Tv Itapoan ( Salvador - BA)",
+        "latitude": -13.0,
+        "longitude": -38.5
+    },
+    {
+        "key": "TVSANTACRUZ",
+        "name": "TV Santa Cruz (Itabuna - BA)",
+        "latitude": -14.8,
+        "longitude": -39.3
+    },
+    {
+        "key": "RECORDCABRALIA",
+        "name": "Record Cabrália (Itabuna - BA)",
+        "latitude": -14.8,
+        "longitude": -39.3
+    },
+    {
+        "key": "ESPMRJ",
+        "name": "ESPM- Escola Superior de Propaganda e Marketing (Rio de Janeiro - RJ)",
+        "latitude": -22.9,
+        "longitude": -43.2
+    },
+    {
+        "key": "NTV",
+        "name": "NTV (Patos de Minas - MG)",
+        "latitude": -18.6,
+        "longitude": -46.5
+    },
+    {
+        "key": "REDEFAMILIACAMPINAS",
+        "name": "Rede Família (Campinas - SP)",
+        "latitude": -22.9,
+        "longitude": -47.1
+    },
+    {
+        "key": "REDEAMITACOATIRA",
+        "name": "Rede Amazônica ( Itacoatiara - AM) ",
+        "latitude": -3.1,
+        "longitude": -58.4
+    },
+    {
+        "key": "REDEAMPARINTINS",
+        "name": "Rede Amazônica ( Parintins - AM) ",
+        "latitude": -2.6,
+        "longitude": -56.7
+    },
+    {
+        "key": "REDEAMCRUZEIRO",
+        "name": "Rede AmazÔnica (Cruzeiro do Sul - AC) ",
+        "latitude": -7.6,
+        "longitude": -72.7
+    },
+    {
+        "key": "REDEAMARIQUEMES",
+        "name": "Rede Amazônica ( Ariquemes - RO) ",
+        "latitude": -9.9,
+        "longitude": -63.0
+    },
+    {
+        "key": "REDEAMJIPARANA",
+        "name": "Rede Amazônica ( Ji-Paraná - RO) ",
+        "latitude": -10.9,
+        "longitude": -61.9
+    },
+    {
+        "key": "REDEAMCACOAL",
+        "name": "Rede Amazônica ( Cacoal - RO) ",
+        "latitude": -11.4,
+        "longitude": -61.5
+    },
+    {
+        "key": "REDEAMVILHENA",
+        "name": "Rede Amazônica ( Vilhena - RO) ",
+        "latitude": -12.8,
+        "longitude": -60.1
+    },
+    {
+        "key": "TERCALIVRE",
+        "name": "Terça Livre (Brasília - DF)",
+        "latitude": -15.8,
+        "longitude": -47.9
+    },
+    {
+        "key": "TVOOTIMISTA",
+        "name": "TV O Otimista ",
+        "latitude": -3.7,
+        "longitude": -38.5
+    },
+    {
+        "key": "BANDNEWS",
+        "name": "Band News (Goiânia-GO)",
+        "latitude": -16.5,
+        "longitude": -49.0
+    },
+    {
+        "key": "GAZETAAL",
+        "name": "TV Gazeta de Alagoas",
+        "latitude": -9.7,
+        "longitude": -35.7
+    },
+    {
+        "key": "TVPLAN",
+        "name": "TV Plan (Poços de Caldas - MG)",
+        "latitude": -21.8,
+        "longitude": -46.6
+    },
+    {
+        "key": "RITTV",
+        "name": "RIT TV ( São Paulo)",
+        "latitude": -23.5,
+        "longitude": -46.6
+    },
+    {
+        "key": "TVMINASBRASIL",
+        "name": "TV Minas Brasil (MG)",
+        "latitude": -17.2,
+        "longitude": -46.9
+    },
+    {
+        "key": "TVDIARIO",
+        "name": "TV Diário (Manaus-AM)",
+        "latitude": -3.1,
+        "longitude": -60.0
+    },
+    {
+        "key": "BMEC",
+        "name": "BM&C News",
+        "latitude": -23.5,
+        "longitude": -46.6
+    },
+    {
+        "key": "PRIMETALK",
+        "name": "PrimeTalk (São Paulo-SP)",
+        "latitude": -23.5,
+        "longitude": -46.6
+    },
+    {
+        "key": "TVAPARECIDA",
+        "name": "TV Aparecida (Aparecida-SP)",
+        "latitude": -22.8,
+        "longitude": -45.2
+    },
+    {
+        "key": "TVTHATHI",
+        "name": "TV Thathi (São José dos Campos)",
+        "latitude": -23.2,
+        "longitude": -45.9
+    },
+    {
+        "key": "TVEVANGELIZAR",
+        "name": "TV Evangelizar (Curitiba-PR)",
+        "latitude": -25.4,
+        "longitude": -49.3
+    },
+    {
+        "key": "METROPOLITANAFM",
+        "name": "Metropolitana FM (São Paulo-SP)",
+        "latitude": -23.5,
+        "longitude": -46.6
+    },
+    {
+        "key": "ATB",
+        "name": "ATB (Bolívia)",
+        "latitude": -16.5,
+        "longitude": -68.1
+    }
+	{
+        "key": "ATB",
+        "name": "ATB (Bolívia)",
+        "latitude": -16.5,
+        "longitude": -68.1
+    }
+]
