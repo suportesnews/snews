@@ -814,7 +814,14 @@
         "name": "Quiero TV (México)",
         "latitude": 20.6668200,
         "longitude": -103.3918200
+    },
+    {
+        "key": "Eleven Sports",
+        "name": "Eleven Sports (México)",
+        "latitude": 38.722252,
+        "longitude": -9.139337
     }
+	
 	
 	
 ]
