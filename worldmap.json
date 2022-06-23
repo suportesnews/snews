@@ -808,6 +808,13 @@
         "name": "ATB (Bolívia)",
         "latitude": -16.5,
         "longitude": -68.1
+    },
+    {
+        "key": "Quiero TV",
+        "name": "Quiero TV (México)",
+        "latitude": 20.6668200,
+        "longitude": -103.3918200
     }
+	
 	
 ]
